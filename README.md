@@ -63,7 +63,7 @@ Hierarchical Neural Architecture Search for Semantic Image Segmentation</a></li>
 for Deep Convolutional Neural Networks Acceleration</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Efficient-DNN-Paper-List/blob/master/dnn(32).pdf" style="text-decoration:none;">DropNet: Reducing Neural Network Complexity via Iterative Pruning</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Efficient-DNN-Paper-List/blob/master/dnn(33).pdf" style="text-decoration:none;">AAAI-18 Main Track Accepted Paper List</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Efficient-DNN-Paper-List/blob/master/dnn(33).pdf" style="text-decoration:none;">Deep Neural Networks for Object Detection</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Efficient-DNN-Paper-List/blob/master/dnn(34).pdf" style="text-decoration:none;">Coreset-Based Neural Network Compression</a></li> 
  
